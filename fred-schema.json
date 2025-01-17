@@ -1240,14 +1240,6 @@
           "summary": "",
           "parameters": [
             {
-              "name": "Description:",
-              "in": "query",
-              "description": "Get an economic data series.",
-              "schema": {
-                "type": "string"
-              }
-            },
-            {
               "name": "api_key",
               "in": "query",
               "description": "Read API Keys for more information.",
@@ -1295,14 +1287,6 @@
           "operationId": "GetSeriesCategories",
           "summary": "",
           "parameters": [
-            {
-              "name": "Description:",
-              "in": "query",
-              "description": "Get an economic data series.",
-              "schema": {
-                "type": "string"
-              }
-            },
             {
               "name": "api_key",
               "in": "query",
