@@ -592,7 +592,7 @@
       },
       "/fred/releases/dates": {
         "get": {
-          "operationId": "getReleaseDates",
+          "operationId": "getReleasesDates",
           "summary": "Retrieve release dates for all economic data.",
           "parameters": [
             {
